@@ -1,2 +1,2 @@
-"# sample" 
-"# Implementation-of-K-means" 
+#### Implementation-of-K-means
+    sklearn implementation
