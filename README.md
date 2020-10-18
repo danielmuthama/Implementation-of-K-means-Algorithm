@@ -22,7 +22,7 @@ Some instances where the number of clusters are not well known. Therefore when c
 
 ###### Elbow method illustration
 
-<img align="" alt="Elbow method" width="400px" src="<img align="left" alt="Visual Studio Code" width="26px" src="https://miro.medium.com/max/2808/1*dChOocbcsLLT1fcxTxj2Ng.png" />
+<img align="" alt="Elbow method" width="400px" src="<img align="left" alt="elbow point" width="26px" src="https://cdn-images-1.medium.com/max/760/0*7RidrBT6XusqW_Y4.png" />
 
 From the above graph we infer that at k=4, the graph reaches an optimum minimum value. Even though the within-cluster distance decreases after 4, we would be doing more computations. Which is just analogous to the law of diminishing returns. Therefore, we choose a value of 4 as the optimum number of clusters. The reason it is named the elbow method is that the optimum number of clusters would represent an elbow joint!
 
