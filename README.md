@@ -14,4 +14,4 @@
     6. End 
     
  > Visual Simulation
- <img align="left" alt="Visual Studio Code" width="26px" src="https://miro.medium.com/max/480/0*f9HcysjkU6XyM1hb.gif" />
+ <img align="left" alt="Visual Studio Code" width="326px" src="https://miro.medium.com/max/480/0*f9HcysjkU6XyM1hb.gif" />
