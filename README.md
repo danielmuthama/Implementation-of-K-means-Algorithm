@@ -16,7 +16,7 @@
     
  > Gif Simulation Explaining K- means
  
- <img align="left" alt="Visual Studio Code" width="350px" src="https://miro.medium.com/max/480/0*f9HcysjkU6XyM1hb.gif" />
+ <img align="" alt="Visual Studio Code" width="350px" src="https://miro.medium.com/max/480/0*f9HcysjkU6XyM1hb.gif" />
  > How to choose value of the value of K if isn't given:
 Some instances where the number of clusters are not well known. Therefore when choosing the value for K, we have to use the elbow method. Where, you choose a different number of clusters and start plotting the within-cluster distance to the centroid.
 
